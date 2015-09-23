@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+slice_sampler.py
+
+Adham Beyki, odinay@gmail.com
+"""
+
 # import necessary packages
 
 import numpy as np
